@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>regression on Nadiem Barnwell</title>
-    <link>https://nadiembarnwell.netlify.app/tags/regression/</link>
+    <link>/tags/regression/</link>
     <description>Recent content in regression on Nadiem Barnwell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://nadiembarnwell.netlify.app/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/regression/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ARCHITECTURAL</title>
-      <link>https://nadiembarnwell.netlify.app/experience/architectural/</link>
+      <link>/experience/architectural/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://nadiembarnwell.netlify.app/experience/architectural/</guid>
+      <guid>/experience/architectural/</guid>
       <description>DescriptionSoftware used• 2 Dimensional Architectural Modelling(Revit) / (AutoCAD)• 3 Dimensional Architectural Modelling(Revit) / (AutoCAD)• Realistic Render Images(Revit) / (Photoshop)• Locality Plan / Emergency Layouts(Revit) / (AutoCAD)• Plans to submission requirements(Revit) / (AutoCAD)• House Plans(Revit) / (AutoCAD)• Site Development Plans(Revit) / (AutoCAD)• All council related matters</description>
     </item>
     
     <item>
       <title>CIVIL</title>
-      <link>https://nadiembarnwell.netlify.app/experience/civil/</link>
+      <link>/experience/civil/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://nadiembarnwell.netlify.app/experience/civil/</guid>
+      <guid>/experience/civil/</guid>
       <description>DescriptionSoftware used• Reinforced concrete calculations &amp;amp; drawings(Inventor) / (AutoCAD)• Bending Schedule(AutoCAD)</description>
     </item>
     
     <item>
       <title>ELECTRICAL</title>
-      <link>https://nadiembarnwell.netlify.app/experience/electrical/</link>
+      <link>/experience/electrical/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://nadiembarnwell.netlify.app/experience/electrical/</guid>
+      <guid>/experience/electrical/</guid>
       <description>DescriptionSoftware used• Electrical symbols &amp;amp; diagrams(AutoCAD)• 1 &amp;amp; 3 phase distribution board diagram(Inventor) / (AutoCAD)• AC / DC diagrams(Inventor) / (AutoCAD)• Circuit board design(Inventor) / (AutoCAD)</description>
     </item>
     
     <item>
       <title>MECHANICAL</title>
-      <link>https://nadiembarnwell.netlify.app/experience/mechanical/</link>
+      <link>/experience/mechanical/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://nadiembarnwell.netlify.app/experience/mechanical/</guid>
+      <guid>/experience/mechanical/</guid>
       <description>DescriptionSoftware used• 2 Dimensional mechanical modelling(Inventor) / (AutoCAD)• 3 Dimensional mechanical modelling(Inventor) / (AutoCAD)• Mechanical part &amp;amp; assembly detailing(Inventor) / (AutoCAD)• Fits, Limits, Tolerances(Inventor) / (AutoCAD)• Quantity Surveying (BIM, BOQ)</description>
     </item>
     
     <item>
       <title>PATENTED DESIGN</title>
-      <link>https://nadiembarnwell.netlify.app/experience/patent_design/</link>
+      <link>/experience/patent_design/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://nadiembarnwell.netlify.app/experience/patent_design/</guid>
+      <guid>/experience/patent_design/</guid>
       <description>DescriptionSoftware used• 2 Dimensional Patent Modelling(Revit) / (Inventor) / (AutoCAD)• 3 Dimensional Patent Modelling(Revit) / (Inventor) / (AutoCAD)• 2 Dimensional Patent Detailing(Revit) / (Inventor) / (AutoCAD)• 3 Dimensional Patent Detailing(Revit) / (Inventor) / (AutoCAD)• Realistic Render Images(Revit) / (Inventor) / (AutoCAD)/ (Photoshop)</description>
     </item>
     
     <item>
       <title>PIPING</title>
-      <link>https://nadiembarnwell.netlify.app/experience/piping/</link>
+      <link>/experience/piping/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://nadiembarnwell.netlify.app/experience/piping/</guid>
+      <guid>/experience/piping/</guid>
       <description>DescriptionSoftware used• 2 Dimensional Piping modelling (p&amp;amp;ID, GA)(Inventor) / (AutoCAD)• 3 Dimensional Piping modelling (p&amp;amp;ID, GA)(Inventor) / (AutoCAD)• Isometric Flow Charts, Spool Drawings(Inventor) / (AutoCAD)• Quantity Surveying (BIM, BOQ)</description>
     </item>
     
     <item>
       <title>STRUCTURAL</title>
-      <link>https://nadiembarnwell.netlify.app/experience/structural/</link>
+      <link>/experience/structural/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://nadiembarnwell.netlify.app/experience/structural/</guid>
+      <guid>/experience/structural/</guid>
       <description>DescriptionSoftware used• 2 Dimensional structural modelling(Inventor) / (AutoCAD)• 3 Dimensional structural modelling(Inventor) / (AutoCAD)• Structural Part &amp;amp; assembly detailing(Inventor) / (AutoCAD)• Quantity Surveying (BIM, BOQ)</description>
     </item>
     

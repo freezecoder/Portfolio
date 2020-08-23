@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Nadiem Barnwell</title>
-    <link>/categories/r/</link>
-    <description>Recent content in R on Nadiem Barnwell</description>
+    <title>experience on Nadiem Barnwell</title>
+    <link>/content/experience/</link>
+    <description>Recent content in experience on Nadiem Barnwell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/content/experience/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

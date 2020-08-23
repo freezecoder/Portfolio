@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/experience/experience/architectural/</loc>
+    <loc>/content/experience/architectural/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -13,22 +13,22 @@
   </url>
   
   <url>
-    <loc>/experience/experience/civil/</loc>
+    <loc>/content/experience/civil/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/experience/experience/electrical/</loc>
+    <loc>/content/experience/electrical/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/experience/experience/</loc>
+    <loc>/content/experience/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/experience/experience/mechanical/</loc>
+    <loc>/content/experience/mechanical/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -38,17 +38,17 @@
   </url>
   
   <url>
-    <loc>/experience/</loc>
+    <loc>/content/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/experience/experience/patent_design/</loc>
+    <loc>/content/experience/patent_design/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/experience/experience/piping/</loc>
+    <loc>/content/experience/piping/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -73,7 +73,7 @@
   </url>
   
   <url>
-    <loc>/experience/experience/structural/</loc>
+    <loc>/content/experience/structural/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>/experience/cv/</loc>
+    <loc>/content/cv/</loc>
   </url>
   
 </urlset>

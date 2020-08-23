@@ -1,5 +1,5 @@
 ---
-description: collection of industry related experience
+description: a collection of industry related experience
 icon: gem
 title: experience
 ---

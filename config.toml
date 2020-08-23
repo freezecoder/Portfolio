@@ -1,4 +1,4 @@
-baseURL = "https://nadiembarnwell.netlify.app"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Nadiem Barnwell"
 theme = "hugo-theme-dimension"

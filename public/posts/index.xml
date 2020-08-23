@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>experience on Nadiem Barnwell</title>
+    <link>/posts/</link>
+    <description>Recent content in experience on Nadiem Barnwell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ARCHITECTURAL</title>
+      <link>/posts/architectural/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/posts/architectural/</guid>
+      <description>DescriptionSoftware used• 2 Dimensional Architectural Modelling(Revit) / (AutoCAD)• 3 Dimensional Architectural Modelling(Revit) / (AutoCAD)• Realistic Render Images(Revit) / (Photoshop)• Locality Plan / Emergency Layouts(Revit) / (AutoCAD)• Plans to submission requirements(Revit) / (AutoCAD)• House Plans(Revit) / (AutoCAD)• Site Development Plans(Revit) / (AutoCAD)• All council related matters</description>
+    </item>
+    
+    <item>
+      <title>CIVIL</title>
+      <link>/posts/civil/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/posts/civil/</guid>
+      <description>DescriptionSoftware used• Reinforced concrete calculations &amp;amp; drawings(Inventor) / (AutoCAD)• Bending Schedule(AutoCAD)</description>
+    </item>
+    
+    <item>
+      <title>ELECTRICAL</title>
+      <link>/posts/electrical/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/posts/electrical/</guid>
+      <description>DescriptionSoftware used• Electrical symbols &amp;amp; diagrams(AutoCAD)• 1 &amp;amp; 3 phase distribution board diagram(Inventor) / (AutoCAD)• AC / DC diagrams(Inventor) / (AutoCAD)• Circuit board design(Inventor) / (AutoCAD)</description>
+    </item>
+    
+    <item>
+      <title>MECHANICAL</title>
+      <link>/posts/mechanical/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/posts/mechanical/</guid>
+      <description>DescriptionSoftware used• 2 Dimensional mechanical modelling(Inventor) / (AutoCAD)• 3 Dimensional mechanical modelling(Inventor) / (AutoCAD)• Mechanical part &amp;amp; assembly detailing(Inventor) / (AutoCAD)• Fits, Limits, Tolerances(Inventor) / (AutoCAD)• Quantity Surveying (BIM, BOQ)</description>
+    </item>
+    
+    <item>
+      <title>PATENTED DESIGN</title>
+      <link>/posts/patent_design/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/posts/patent_design/</guid>
+      <description>DescriptionSoftware used• 2 Dimensional Patent Modelling(Revit) / (Inventor) / (AutoCAD)• 3 Dimensional Patent Modelling(Revit) / (Inventor) / (AutoCAD)• 2 Dimensional Patent Detailing(Revit) / (Inventor) / (AutoCAD)• 3 Dimensional Patent Detailing(Revit) / (Inventor) / (AutoCAD)• Realistic Render Images(Revit) / (Inventor) / (AutoCAD)/ (Photoshop)</description>
+    </item>
+    
+    <item>
+      <title>PIPING</title>
+      <link>/posts/piping/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/posts/piping/</guid>
+      <description>DescriptionSoftware used• 2 Dimensional Piping modelling (p&amp;amp;ID, GA)(Inventor) / (AutoCAD)• 3 Dimensional Piping modelling (p&amp;amp;ID, GA)(Inventor) / (AutoCAD)• Isometric Flow Charts, Spool Drawings(Inventor) / (AutoCAD)• Quantity Surveying (BIM, BOQ)</description>
+    </item>
+    
+    <item>
+      <title>STRUCTURAL</title>
+      <link>/posts/structural/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/posts/structural/</guid>
+      <description>DescriptionSoftware used• 2 Dimensional structural modelling(Inventor) / (AutoCAD)• 3 Dimensional structural modelling(Inventor) / (AutoCAD)• Structural Part &amp;amp; assembly detailing(Inventor) / (AutoCAD)• Quantity Surveying (BIM, BOQ)</description>
+    </item>
+    
+  </channel>
+</rss>

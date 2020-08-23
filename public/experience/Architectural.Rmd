@@ -1,0 +1,21 @@
+---
+title: "ARCHITECTURAL"
+author: "Nadiem Barnwell"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+|                  Description                 |						Software used | 
+|               --------------                 |         --------------   |   
+| •	2 Dimensional Architectural Modelling	     |			(Revit) / (AutoCAD) |
+| •	3 Dimensional Architectural Modelling	     |			(Revit) / (AutoCAD) |
+| •	Realistic Render Images                    | 	  	(Revit) / (Photoshop)             |
+| •	Locality Plan / Emergency Layouts                          | 	  	(Revit) / (AutoCAD) |
+| •	Plans to submission requirements                    | 	  	(Revit) / (AutoCAD) |
+| •	House Plans                   | 	  	(Revit) / (AutoCAD) |
+| •	Site Development Plans                    | 	  	(Revit) / (AutoCAD) |
+| •	All council related matters                  | 	  	 |

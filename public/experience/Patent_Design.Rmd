@@ -1,0 +1,20 @@
+---
+title: "PATENTED DESIGN"
+author: "Nadiem Barnwell"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+|                  Description                 |						Software used | 
+|               --------------                 |         --------------   |   
+| •	2 Dimensional Patent Modelling	           |			(Revit) / (Inventor) / (AutoCAD) |
+| •	3 Dimensional Patent Modelling	           |			(Revit) / (Inventor) / (AutoCAD)  |
+| •	2 Dimensional Patent Detailing	           |			(Revit) / (Inventor) / (AutoCAD) |
+| •	3 Dimensional Patent Detailing	           |			(Revit) / (Inventor) / (AutoCAD)  |
+| •	Realistic Render Images                    | 	  	(Revit) / (Inventor) / (AutoCAD)/ (Photoshop)|
+

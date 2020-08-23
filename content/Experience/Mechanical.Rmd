@@ -1,0 +1,19 @@
+---
+title: "MECHANICAL"
+author: "Nadiem Barnwell"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+|                  Description                 |						Software used         | 
+|               --------------                 |         --------------           |   
+| •	2 Dimensional mechanical modelling	       |			(Inventor) / (AutoCAD)      |
+| •	3 Dimensional mechanical modelling         |			(Inventor) / (AutoCAD)      |
+| •	Mechanical part & assembly detailing       | 	  	(Inventor) / (AutoCAD)      |
+| •	Fits, Limits, Tolerances                   | 	  	(Inventor) / (AutoCAD)      |
+| •	Quantity Surveying (BIM, BOQ)              | 	  	      |

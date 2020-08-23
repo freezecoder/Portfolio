@@ -1,0 +1,18 @@
+---
+title: "PIPING"
+author: "Nadiem Barnwell"
+date: 2015-07-23T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+|                  Description                 |						Software used         | 
+|               --------------                 |         --------------           |   
+| •	2 Dimensional Piping modelling (p&ID, GA)   |			(Inventor) / (AutoCAD)      |
+| •	3 Dimensional Piping modelling (p&ID, GA)|			(Inventor) / (AutoCAD)    |
+| •	Isometric Flow Charts, Spool Drawings       | 	  	(Inventor) / (AutoCAD)    |
+| •	Quantity Surveying (BIM, BOQ)              | 	  	     |
